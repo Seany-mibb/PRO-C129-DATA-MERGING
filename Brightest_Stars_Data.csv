@@ -1,0 +1,94 @@
+id,Star_name,Visual_Magnitude,Bayer_Designation,Distance,Spectral_Type,Celestial_Hemisphere
+0,Sun,0.000−26.74,,0.0,G2 V,1
+1,,Sun,0.0,G2 V,1,0.001−1.46
+2,0.0,,G2 V,1,0.001−1.46,Sirius
+3,G2 V,0.0,1,0.001−1.46,Sirius,α CMa
+4,1,G2 V,0.001−1.46,Sirius,α CMa,0008.6
+5,0.001−1.46,1,Sirius,α CMa,0008.6,"A0mA1 Va, DA2"
+6,Sirius,0.001−1.46,α CMa,0008.6,"A0mA1 Va, DA2",Southern
+7,α CMa,Sirius,0008.6,"A0mA1 Va, DA2",Southern,2
+8,0008.6,α CMa,"A0mA1 Va, DA2",Southern,2,0.003−0.74
+9,"A0mA1 Va, DA2",0008.6,Southern,2,0.003−0.74,Canopus
+10,Southern,"A0mA1 Va, DA2",2,0.003−0.74,Canopus,α Car
+11,2,Southern,0.003−0.74,Canopus,α Car,0310
+12,0.003−0.74,2,Canopus,α Car,0310,A9 II
+13,Canopus,0.003−0.74,α Car,0310,A9 II,Southern
+14,α Car,Canopus,0310,A9 II,Southern,3
+15,0310,α Car,A9 II,Southern,3,0.004−0.27 (0.01 + 1.33)
+16,A9 II,0310,Southern,3,0.004−0.27 (0.01 + 1.33),Rigil Kentaurus& Toliman
+17,Southern,A9 II,3,0.004−0.27 (0.01 + 1.33),Rigil Kentaurus& Toliman,α Cen
+18,3,Southern,0.004−0.27 (0.01 + 1.33),Rigil Kentaurus& Toliman,α Cen,0004.34
+19,0.004−0.27 (0.01 + 1.33),3,Rigil Kentaurus& Toliman,α Cen,0004.34,"G2 V, K1 V"
+20,Rigil Kentaurus& Toliman,0.004−0.27 (0.01 + 1.33),α Cen,0004.34,"G2 V, K1 V",Southern
+21,α Cen,Rigil Kentaurus& Toliman,0004.34,"G2 V, K1 V",Southern,4
+22,0004.34,α Cen,"G2 V, K1 V",Southern,4,0.005−0.05
+23,"G2 V, K1 V",0004.34,Southern,4,0.005−0.05,Arcturus
+24,Southern,"G2 V, K1 V",4,0.005−0.05,Arcturus,α Boo
+25,4,Southern,0.005−0.05,Arcturus,α Boo,0037
+26,0.005−0.05,4,Arcturus,α Boo,0037,K0 III
+27,Arcturus,0.005−0.05,α Boo,0037,K0 III,Northern
+28,α Boo,Arcturus,0037,K0 III,Northern,5
+29,0037,α Boo,K0 III,Northern,5,0.03 (−0.02–0.07var)
+30,K0 III,0037,Northern,5,0.03 (−0.02–0.07var),Vega
+31,Northern,K0 III,5,0.03 (−0.02–0.07var),Vega,α Lyr
+32,5,Northern,0.03 (−0.02–0.07var),Vega,α Lyr,0025
+33,0.03 (−0.02–0.07var),5,Vega,α Lyr,0025,A0 Va
+34,Vega,0.03 (−0.02–0.07var),α Lyr,0025,A0 Va,Northern
+35,α Lyr,Vega,0025,A0 Va,Northern,6
+36,0025,α Lyr,A0 Va,Northern,6,0.08 (0.03–0.16var)
+37,A0 Va,0025,Northern,6,0.08 (0.03–0.16var),Capella
+38,Northern,A0 Va,6,0.08 (0.03–0.16var),Capella,α Aur
+39,6,Northern,0.08 (0.03–0.16var),Capella,α Aur,0043
+40,0.08 (0.03–0.16var),6,Capella,α Aur,0043,"K0 III, G1 III"
+41,Capella,0.08 (0.03–0.16var),α Aur,0043,"K0 III, G1 III",Northern
+42,α Aur,Capella,0043,"K0 III, G1 III",Northern,7
+43,0043,α Aur,"K0 III, G1 III",Northern,7,0.13 (0.05–0.18var)
+44,"K0 III, G1 III",0043,Northern,7,0.13 (0.05–0.18var),Rigel
+45,Northern,"K0 III, G1 III",7,0.13 (0.05–0.18var),Rigel,β Ori
+46,7,Northern,0.13 (0.05–0.18var),Rigel,β Ori,0860
+47,0.13 (0.05–0.18var),7,Rigel,β Ori,0860,B8 Ia
+48,Rigel,0.13 (0.05–0.18var),β Ori,0860,B8 Ia,Southern
+49,β Ori,Rigel,0860,B8 Ia,Southern,8
+50,0860,β Ori,B8 Ia,Southern,8,0.34
+51,B8 Ia,0860,Southern,8,0.34,Procyon
+52,Southern,B8 Ia,8,0.34,Procyon,α CMi
+53,8,Southern,0.34,Procyon,α CMi,0011
+54,0.34,8,Procyon,α CMi,0011,F5 IV-V
+55,Procyon,0.34,α CMi,0011,F5 IV-V,Northern
+56,α CMi,Procyon,0011,F5 IV-V,Northern,9
+57,0011,α CMi,F5 IV-V,Northern,9,0.46 (0.40–0.46var)
+58,F5 IV-V,0011,Northern,9,0.46 (0.40–0.46var),Achernar
+59,Northern,F5 IV-V,9,0.46 (0.40–0.46var),Achernar,α Eri
+60,9,Northern,0.46 (0.40–0.46var),Achernar,α Eri,0139
+61,0.46 (0.40–0.46var),9,Achernar,α Eri,0139,B3 Vpe
+62,Achernar,0.46 (0.40–0.46var),α Eri,0139,B3 Vpe,Southern
+63,α Eri,Achernar,0139,B3 Vpe,Southern,10
+64,0139,α Eri,B3 Vpe,Southern,10,0.50 (0.0–1.6var)
+65,B3 Vpe,0139,Southern,10,0.50 (0.0–1.6var),Betelgeuse
+66,Southern,B3 Vpe,10,0.50 (0.0–1.6var),Betelgeuse,α Ori
+67,10,Southern,0.50 (0.0–1.6var),Betelgeuse,α Ori,640
+68,0.50 (0.0–1.6var),10,Betelgeuse,α Ori,640,M1-M2 Ia-ab
+69,Betelgeuse,0.50 (0.0–1.6var),α Ori,640,M1-M2 Ia-ab,Northern
+70,α Ori,Betelgeuse,640,M1-M2 Ia-ab,Northern,11
+71,640,α Ori,M1-M2 Ia-ab,Northern,11,0.61
+72,M1-M2 Ia-ab,640,Northern,11,0.61,Hadar
+73,Northern,M1-M2 Ia-ab,11,0.61,Hadar,β Cen
+74,11,Northern,0.61,Hadar,β Cen,0390
+75,0.61,11,Hadar,β Cen,0390,B1 III
+76,Hadar,0.61,β Cen,0390,B1 III,Southern
+77,β Cen,Hadar,0390,B1 III,Southern,12
+78,0390,β Cen,B1 III,Southern,12,0.76
+79,B1 III,0390,Southern,12,0.76,Altair
+80,Southern,B1 III,12,0.76,Altair,α Aql
+81,12,Southern,0.76,Altair,α Aql,0017
+82,0.76,12,Altair,α Aql,0017,A7 V
+83,Altair,0.76,α Aql,0017,A7 V,Northern
+84,α Aql,Altair,0017,A7 V,Northern,13
+85,0017,α Aql,A7 V,Northern,13,0.76 (1.33 + 1.73)
+86,A7 V,0017,Northern,13,0.76 (1.33 + 1.73),Acrux
+87,Northern,A7 V,13,0.76 (1.33 + 1.73),Acrux,α Cru
+88,13,Northern,0.76 (1.33 + 1.73),Acrux,α Cru,0320
+89,0.76 (1.33 + 1.73),13,Acrux,α Cru,0320,"B0.5 IV, B1 V"
+90,Acrux,0.76 (1.33 + 1.73),α Cru,0320,"B0.5 IV, B1 V",Southern
+91,α Cru,Acrux,0320,"B0.5 IV, B1 V",Southern,14
+92,0320,α Cru,"B0.5 IV, B1 V",Southern,14,0.86 (0.75–0.95var)
